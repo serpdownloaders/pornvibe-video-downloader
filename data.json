@@ -1,0 +1,213 @@
+{
+  "github_source_repo": "https://github.com/serpcompany/pornvibe-downloader",
+  "serply_link": "https://serp.ly/pornvibe-downloader",
+  "app_name": "Pornvibe Video Downloader",
+  "short_description": "Download & Save Pornvibe Videos Easily for Offline Viewing (Browser Extension)",
+  "long_description": "Pornvibe Downloader is a browser extension that lets you save videos directly from Pornvibe's title pages to your computer. Whether you want to build a personal collection, watch offline, or archive your favorite content, this tool gives you a straightforward way to download Pornvibe videos in standard MP4 format. No complicated setups or extra software required.",
+  "main_video": "",
+  "featured_image": "",
+  "screenshots": [
+    "https://apps.serp.co/media/optimized-products/pornvibe-downloader-fullscreen-01-a0a9735349.webp",
+    "https://apps.serp.co/media/optimized-products/pornvibe-downloader-fullscreen-02-bb7ff1c449.webp",
+    "https://apps.serp.co/media/optimized-products/pornvibe-downloader-fullscreen-03-26536ee381.webp",
+    "https://apps.serp.co/media/optimized-products/pornvibe-downloader-fullscreen-04-9e4ad0e333.webp"
+  ],
+  "chromestore_link": "",
+  "firefoxstore_link": "",
+  "other_links": [],
+  "faqs": [
+    {
+      "question": "Can I download multiple videos at once?",
+      "answer": "The extension is designed for single-video downloads from individual title pages. You can start a new download after the current one finishes."
+    },
+    {
+      "question": "Does this work on all Pornvibe pages?",
+      "answer": "The extension works on Pornvibe title pages that contain a video player. Other page types may not be supported."
+    },
+    {
+      "question": "Is my download history tracked?",
+      "answer": "No, the extension does not track or log your download activity. All processing happens locally in your browser."
+    },
+    {
+      "question": "What browsers are supported?",
+      "answer": "The extension works on Chrome, Edge, Brave, and Firefox based on the repo description. Other Chromium-based browsers may also work."
+    },
+    {
+      "question": "Do I need to create an account?",
+      "answer": "You need to sign in with your email to access the trial and paid features. The sign-in uses a one-time password sent to your inbox."
+    }
+  ],
+  "permissions": [
+    {
+      "name": "",
+      "description": "Sharing downloaded files with permission from the content owner"
+    },
+    {
+      "name": "",
+      "description": "Only download content you own or have explicit permission to save"
+    }
+  ],
+  "features": [
+    "Download videos directly from Pornvibe title pages",
+    "Save as MP4 files for easy playback on any device",
+    "Works with Chrome, Edge, Brave, and Firefox browsers",
+    "Simple popup interface for quick downloads",
+    "No account needed to start downloading",
+    "Direct download from Pornvibe title pages",
+    "MP4 output for broad device compatibility",
+    "Simple popup interface with quality options",
+    "Works on Chrome, Edge, Brave, and Firefox",
+    "Free trial with 3 downloads to test the workflow",
+    "Secure email sign-in with one-time password verification",
+    "No credit card required for the trial",
+    "Unlimited downloads available with a paid license"
+  ],
+  "content": {
+    "why": [
+      "Watching videos on Pornvibe is great, but streaming requires a stable internet connection every time. If your connection drops or you want to save a video for later, you are stuck refreshing the page or searching again. Many download tools claim to work across all sites but fail to handle Pornvibe's specific page structure, leaving you with broken files or no results.",
+      "Pornvibe Downloader is built specifically for Pornvibe's title pages. It targets the exact video source on the page so you get a clean MP4 file every time. Instead of wrestling with generic downloaders that may or may not work, you get a focused tool that does one thing well: save Pornvibe videos to your device."
+    ],
+    "how_it_works": [
+      "Install the extension from the latest release.",
+      "Open Pornvibe and go to a supported video page.",
+      "Start playback so the extension can detect the media.",
+      "Open the popup or use the on-page controls.",
+      "Choose the quality option you want.",
+      "Start the download and wait for the MP4 export to finish.",
+      "Save the final file locally."
+    ],
+    "tutorial": [
+      "Open your browser and navigate to a Pornvibe video page, such as ``.",
+      "Wait for the page to load fully and the video player to appear.",
+      "Click the Pornvibe Downloader icon in your browser toolbar to open the popup.",
+      "The extension will scan the page and display available video sources.",
+      "Select your preferred quality from the dropdown menu.",
+      "Click the download button to start the transfer.",
+      "A save dialog will appear — choose a location on your computer.",
+      "Wait for the download to complete, then open the file in your preferred media player."
+    ],
+    "supported_formats": [
+      "Input: Video streams detected on Pornvibe title pages",
+      "Output: MP4",
+      "Saved files use MP4 so they are easier to replay on standard media players, move between devices, or archive locally."
+    ],
+    "target_users": [
+      "Pornvibe viewers who want to save videos for offline playback",
+      "Users with slow or unreliable internet connections",
+      "Collectors building a personal video library",
+      "Anyone who prefers watching content without streaming delays"
+    ],
+    "use_cases": [
+      "Saving favorite videos to watch without an internet connection",
+      "Archiving content before it is removed from the platform",
+      "Building a personal collection organized by category or performer",
+      "Watching videos on devices without dedicated streaming apps",
+      "Sharing downloaded files with permission from the content owner"
+    ],
+    "troubleshooting": [
+      "The extension does not detect any video on the page Make sure the video is playing and the page has fully loaded. Try refreshing the page and clicking the extension icon again.",
+      "The download fails or stops mid-way Check your internet connection and ensure you have enough free storage space. Try downloading a lower quality option if available.",
+      "I cannot see the extension icon in my toolbar Go to your browser's extension management page and make sure Pornvibe Downloader is enabled. You may need to pin the icon to your toolbar.",
+      "The popup appears blank Close the popup, refresh the Pornvibe page, and try again. If the issue persists, restart your browser.",
+      "I reached the free trial limit Purchase a license through the product page to unlock unlimited downloads."
+    ],
+    "trial_access": [
+      "Includes 3 free downloads so you can test the workflow first",
+      "Email sign-in uses secure one-time password verification",
+      "No credit card required for the trial",
+      "Unlimited downloads are available with a paid license"
+    ],
+    "installation_instructions": [
+      "Open the latest release page.",
+      "Download the correct build for your browser.",
+      "Install the extension.",
+      "Open a supported Pornvibe page.",
+      "Use the popup to detect and download the media."
+    ],
+    "notes": [
+      "Only download content you own or have explicit permission to save",
+      "An internet connection is required for downloads",
+      "Pornvibe Downloader is designed for Pornvibe's title page structure",
+      "The extension is a generated candidate and may require further testing before full release"
+    ],
+    "about": [
+      "Pornvibe is a video platform that hosts adult content across a wide range of categories. Pornvibe Downloader gives you a straightforward way to save videos from the site for offline access."
+    ]
+  },
+  "serpx_link": "https://serpx.link/pornvibe-downloader",
+  "github_topics": [
+    "pornvibe-download",
+    "pornvibe-downloader",
+    "pornvibe-video-downloader",
+    "pornvibe-video-downloader-online",
+    "pornvibe-video-downloader-mac",
+    "pornvibe-video-downloader-window",
+    "pornvibe-video-downloader-free",
+    "pornvibe-video-downloader-extension",
+    "pornvibe-video-downloader-app",
+    "pornvibe-video-downloader-chrome",
+    "pornvibe-video-downloader-from-url",
+    "how-to-download-pornvibe-videos",
+    "how-to-download-pornvibe-videos-mac",
+    "how-to-download-pornvibe-videos-windows",
+    "how-to-download-pornvibe-videos-online",
+    "how-to-download-pornvibe-videos-free",
+    "how-to-download-from-pornvibe",
+    "how-to-download-videos-from-pornvibe",
+    "download-pornvibe-videos",
+    "pornvibe-video-tutorial",
+    "save-pornvibe-videos",
+    "pornvibe-video-content-saver",
+    "how-to-download-pornvibe-videos-for-free"
+  ],
+  "hashtags": [
+    "#PornvibeDownload",
+    "#PornvibeDownloader",
+    "#PornvibeVideoDownloader",
+    "#PornvibeVideoDownloaderOnline",
+    "#PornvibeVideoDownloaderMac",
+    "#PornvibeVideoDownloaderWindow",
+    "#PornvibeVideoDownloaderFree",
+    "#PornvibeVideoDownloaderExtension",
+    "#PornvibeVideoDownloaderApp",
+    "#PornvibeVideoDownloaderChrome",
+    "#PornvibeVideoDownloaderFromURL",
+    "#HowToDownloadPornvibeVideos",
+    "#HowToDownloadPornvibeVideosMac",
+    "#HowToDownloadPornvibeVideosWindows",
+    "#HowToDownloadPornvibeVideosOnline",
+    "#HowToDownloadPornvibeVideosFree",
+    "#HowToDownloadFromPornvibe",
+    "#HowToDownloadVideosFromPornvibe",
+    "#DownloadPornvibeVideos",
+    "#PornvibeVideoTutorial",
+    "#SavePornvibeVideos",
+    "#PornvibeVideoContentSaver",
+    "#HowToDownloadPornvibeVideosForFree"
+  ],
+  "youtube_tags": [
+    "Pornvibe Download",
+    "Pornvibe Downloader",
+    "Pornvibe Video Downloader",
+    "Pornvibe Video Downloader Online",
+    "Pornvibe Video Downloader Mac",
+    "Pornvibe Video Downloader Window",
+    "Pornvibe Video Downloader Free",
+    "Pornvibe Video Downloader Extension",
+    "Pornvibe Video Downloader App",
+    "Pornvibe Video Downloader Chrome",
+    "Pornvibe Video Downloader From URL",
+    "How To Download Pornvibe Videos",
+    "How To Download Pornvibe Videos Mac",
+    "How To Download Pornvibe Videos Windows",
+    "How To Download Pornvibe Videos Online",
+    "How To Download Pornvibe Videos Free",
+    "How To Download From Pornvibe",
+    "How To Download Videos From Pornvibe",
+    "Download Pornvibe Videos",
+    "Pornvibe Video Tutorial",
+    "Save Pornvibe Videos",
+    "Pornvibe Video Content Saver",
+    "How To Download Pornvibe Videos For Free"
+  ]
+}
